@@ -592,3 +592,12 @@
 [submodule "build_src/pkg-config"]
 	path = build_src/pkg-config
 	url = git://anongit.freedesktop.org/pkg-config
+[submodule "src/mesa/mesa"]
+	path = src/mesa/mesa
+	url = git@gitlab.freedesktop.org:mesa/mesa.git
+[submodule "src/mesa/glu"]
+	path = src/mesa/glu
+	url = git@gitlab.freedesktop.org:mesa/glu.git
+[submodule "src/mesa/demos"]
+	path = src/mesa/demos
+	url = git@gitlab.freedesktop.org:mesa/demos.git
