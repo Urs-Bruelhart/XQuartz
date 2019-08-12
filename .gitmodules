@@ -580,3 +580,15 @@
 [submodule "src/xorg/xserver"]
 	path = src/xorg/xserver
 	url = git@gitlab.freedesktop.org:xorg/xserver.git
+[submodule "build_src/libtool"]
+	path = build_src/libtool
+	url = git://git.sv.gnu.org/libtool
+[submodule "build_src/automake"]
+	path = build_src/automake
+	url = git://git.sv.gnu.org/automake
+[submodule "build_src/autoconf"]
+	path = build_src/autoconf
+	url = git://git.sv.gnu.org/autoconf
+[submodule "build_src/pkg-config"]
+	path = build_src/pkg-config
+	url = git://anongit.freedesktop.org/pkg-config
